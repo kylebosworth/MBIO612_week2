@@ -1,14 +1,14 @@
 # MBIO612_week2
 
-My first README file in Git: Weight Data
+## My first README file in Git: Weight Data
 
 
 
-Created by: Kyle Bosworth
+### Created by: Kyle Bosworth
 
 
 
-Created on: 2024-09-10
+### Created on: 2024-09-10
 
 (see attatched weightdata.csv)
 

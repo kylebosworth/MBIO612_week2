@@ -15,6 +15,6 @@
 
 
 > High sample treatment produced lower weights **less than 5**.
-First line with the HTML tag after.<br>
-And the next line.
+
+
 > Low sample treatment produced weights **less than 10** but **greater than 5**.

@@ -1,6 +1,6 @@
 # MBIO612_week2
 
-## My first README file in Git: Weight Data
+## My first README file in Git: _Weight Data_
 
 
 
@@ -10,7 +10,7 @@
 
 ### Created on: 2024-09-10
 
-(see attatched weightdata.csv)
+
 
 
 
